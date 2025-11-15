@@ -32,7 +32,7 @@ export const RatingData: RatingTestimonial[] = [
   {
     name: "Emily Clark",
     role: "Startup Founder",
-    image: "/images/user3.png",
+    image: "/images/user4.png",
     text: "Highly professional and efficient platform. I recommend it to anyone looking for smart financial solutions.",
     rating: 5,
   },
