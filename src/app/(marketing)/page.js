@@ -6,6 +6,7 @@ import Payments from "@/components/marketing/payments";
 import Testimonials from "@/components/marketing/testimonials";
 import Pricing from "@/components/marketing/pricing";
 import Smartbank from "@/components/marketing/smartbank";
+import Rating from "@/components/marketing/rating";
 import Cta from "@/components/marketing/cta";
 const HomePage = () => {
   return (
@@ -18,6 +19,7 @@ const HomePage = () => {
       <Testimonials />
       <Pricing />
       <Smartbank />
+      <Rating />
       <Cta />
     </div>
   );

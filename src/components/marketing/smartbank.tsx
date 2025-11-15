@@ -1,10 +1,9 @@
 "use client";
 import { paymentButton } from "@/constants/paymentData";
-import { ArrowRight, Check } from "lucide-react";
+import { ArrowRight } from "lucide-react";
 import { PingDot } from "../ui/pingdot";
 import Image from "next/image";
 import { Button } from "../ui/button";
-
 import { Banking, BankingFeature } from "@/constants/bankingdata";
 import { useState } from "react";
 
